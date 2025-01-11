@@ -1,4 +1,4 @@
-function go(sign, numbers, target, idx) {
+function go(sign, numbers, target) {
     if(sign.length === numbers.length) {
         const sum = numbers.reduce(
             (acc, num, idx) => sign[idx] ? acc + num : acc - num, 0);
@@ -8,10 +8,10 @@ function go(sign, numbers, target, idx) {
     
     let answer = 0;
     sign.push(true);
-    answer += go(sign, numbers, target, idx+1);
+    answer += go(sign, numbers, target);
     sign.pop();
     sign.push(false);
-    answer += go(sign, numbers, target, idx+1);
+    answer += go(sign, numbers, target);
     sign.pop();
     
     return answer;
