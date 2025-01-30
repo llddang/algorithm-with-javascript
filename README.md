@@ -14,6 +14,13 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.01.30</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131704">택배상자</a></td>
+      <td>구현</td>
+      <td>Level 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/033.%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td>2025.01.29</td>
       <td><a href="">쿼드압축 후 개수 세기</a></td>
       <td>분할정복</td>
