@@ -623,6 +623,12 @@
       <td><a href="">나의 풀이</a></td>
     </tr>
     <tr>
+      <td><a href="">문자열 내림차순으로 배치하기</a></td>
+      <td>문자열</td>
+      <td>Level 1</td>
+      <td><a href="">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td><a href="">배열의 평균값</a></td>
       <td>수학</td>
       <td>Level 0</td>
@@ -680,12 +686,6 @@
       <td><a href="">두 수의 차</a></td>
       <td>수학</td>
       <td>Level 0</td>
-      <td><a href="">나의 풀이</a></td>
-    </tr>
-    <tr>
-      <td><a href="">문자열 내림차순으로 배치하기</a></td>
-      <td>문자열</td>
-      <td>Level 1</td>
       <td><a href="">나의 풀이</a></td>
     </tr>
   </tbody>
