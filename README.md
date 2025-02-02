@@ -14,6 +14,27 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.02.02</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/178870">연속된 부분 수열의 합</a></td>
+      <td>구현</td>
+      <td>Level 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/036.%EC%97%B0%EC%86%8D%EB%90%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.md">나의 풀이</a></td>
+    </tr>
+    <tr>
+      <td>2025.02.01</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68645">삼각 달팽이</a></td>
+      <td>구현</td>
+      <td>Level 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/035.%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.md">나의 풀이</a></td>
+    </tr>
+    <tr>
+      <td>2025.01.31</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42883">큰 수 만들기</a></td>
+      <td>구현</td>
+      <td>Level 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/034.%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td>2025.01.30</td>
       <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131704">택배상자</a></td>
       <td>구현</td>
