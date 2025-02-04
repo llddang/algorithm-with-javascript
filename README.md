@@ -14,6 +14,13 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.02.04</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540">무인도 여행</a></td>
+      <td>BFS</td>
+      <td>Level 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/038.%EB%AC%B4%EC%9D%B8%EB%8F%84%20%EC%97%AC%ED%96%89.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td>2025.02.03</td>
       <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667">두 큐 합 같게 만들기</a></td>
       <td>구현</td>
