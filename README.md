@@ -14,7 +14,13 @@
   </thead>
   <tbody>
     <tr>
-      <td>2025.02.04</td>
+      <td rowspan="2">2025.02.04</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/77485">행렬 테두리 회전하기</a></td>
+      <td>구현</td>
+      <td>Level 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/039.%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540">무인도 여행</a></td>
       <td>BFS</td>
       <td>Level 2</td>
