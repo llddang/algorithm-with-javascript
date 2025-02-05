@@ -14,6 +14,13 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.02.05</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/155651">호텔 대실</a></td>
+      <td>스케줄링</td>
+      <td>Level 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/041.%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td rowspan="3">2025.02.04</td>
       <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86971">전력망을 둘로 나누기</a></td>
       <td>구현</td>
