@@ -1,38 +1,23 @@
-
 function strToNum(time) {
-    const [h, m] = time.split(':')
-    
-    return Number(h) * 60 + Number(m);
+    const [h, m] = time.split(':').map(Number);   
+    return h * 60 + m;
 }
 
 function solution(book_time) {
-    const times = [];
-    
-    for(const e of book_time){
-        const st = strToNum(e[0]);
-        const en = strToNum(e[1]);
-        
-        times.push([st, en]);
-    }
-    
+    const times = book_time.map(time => time.map(strToNum));
     times.sort((a, b) => a[0] - b[0]);
     
     const rooms = [];
     
     let i;
-    for(const e of times){
-        
+    times.forEach(([s, e]) => {
         for(i=0; i<rooms.length; i++){
-            if(rooms[i] > e[0]) continue;
-            
-            rooms[i] = e[1] + 10;
+            if(rooms[i] > s) continue;
+            rooms[i] = e + 10;
             break;
         }
-        if(i === rooms.length) rooms.push(e[1] + 10);
-        
-        console.log(rooms);
-        
-    }
+        if(i === rooms.length) rooms.push(e + 10);
+    });
     
     return rooms.length;
 }
