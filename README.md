@@ -14,6 +14,13 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.02.06</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/140107">점 찍기</a></td>
+      <td>구현</td>
+      <td>Level 2</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/140107">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td>2025.02.05</td>
       <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/155651">호텔 대실</a></td>
       <td>스케줄링</td>
