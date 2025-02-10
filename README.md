@@ -21,7 +21,7 @@
       <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/044.%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md">나의 풀이</a></td>
     </tr>
     <tr>
-      <td>2025.02.7</td>
+      <td>2025.02.07</td>
       <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/148653#">마법의 엘리베이터</a></td>
       <td>구현</td>
       <td>Level 2</td>
