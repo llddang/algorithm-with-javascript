@@ -6,7 +6,6 @@ function gcd(a, b) {
 
 function getDivisors(num) {
     const divisors = new Set();
-    
     const sqrt = Math.sqrt(num);
     for (let i = 1; i <= sqrt; i++) {
         if (num % i === 0) {
@@ -17,8 +16,7 @@ function getDivisors(num) {
     return Array.from(divisors).sort((a, b) => b - a);
 }
 
-function check(gcdNum, array) {
-    const divisors = getDivisors(gcdNum);
+function getAnswer(divisors, array) {
     for(let s of divisors) {
         const res = array.every((n) => Math.floor(n / s) !== n / s);
         if(res) return s;
@@ -30,8 +28,11 @@ function solution(arrayA, arrayB) {
     const gcdA = arrayA.reduce((acc, num) => gcd(num, acc));
     const gcdB = arrayB.reduce((acc, num) => gcd(num, acc));
     
-    const ansA = check(gcdA, arrayB);
-    const ansB = check(gcdB, arrayA);
+    const divisorsA = getDivisors(gcdA);
+    const divisorsB = getDivisors(gcdB);
+    
+    const ansA = getAnswer(divisorsA, arrayB);
+    const ansB = getAnswer(divisorsB, arrayA);
     
     return Math.max(ansA, ansB);
 }
