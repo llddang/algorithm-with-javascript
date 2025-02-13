@@ -14,6 +14,27 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.02.13</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/152996">시소 짝꿍</a></td>
+      <td>구현</td>
+      <td>Level 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/047.%EC%8B%9C%EC%86%8C%20%EC%A7%9D%EA%BF%8D.md">나의 풀이</a></td>
+    </tr>
+    <tr>
+      <td>2025.02.12</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/62048#">멀쩡한 사각형</a></td>
+      <td>구현</td>
+      <td>Level 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/046.%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.md">나의 풀이</a></td>
+    </tr>
+    <tr>
+      <td>2025.02.11</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/135807">숫자 카드 나누기</a></td>
+      <td>GCD</td>
+      <td>Level 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/045.%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EB%82%98%EB%88%84%EA%B8%B0.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td>2025.02.10</td>
       <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/81302">거리두기 확인하기</a></td>
       <td>구현</td>
