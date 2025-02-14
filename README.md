@@ -14,6 +14,13 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.02.14</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/147354">테이블 해시 함수</a></td>
+      <td>구현</td>
+      <td>Level 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%202/048.%ED%85%8C%EC%9D%B4%EB%B8%94%20%ED%95%B4%EC%8B%9C%20%ED%95%A8%EC%88%98.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td>2025.02.13</td>
       <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/152996">시소 짝꿍</a></td>
       <td>구현</td>
