@@ -15,7 +15,7 @@
   <tbody>
     <tr>
       <td rowspan="2">2025.02.19</td>
-      <td><a href="https://www.acmicpc.net/problem/11657">타임머신</a></td>
+      <td><a href="http://www.acmicpc.net/problem/11657">타임머신</a></td>
       <td>벨만 포드</td>
       <td>Gold 4</td>
       <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Baekjoon/Gold_4/011657%20%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0.md">나의 풀이</a></td>
