@@ -21,7 +21,7 @@
       <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Baekjoon/Gold_4/011657%20%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0.md">나의 풀이</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.acmicpc.net/problem/2776">암기왕</a></td>
+      <td><a href="http://www.acmicpc.net/problem/2776">암기왕</a></td>
       <td>해시를 사용한 집합과 맵</td>
       <td>Silver 4</td>
       <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Baekjoon/Silver_4/002776%20%EC%95%94%EA%B8%B0%EC%99%95.md">나의 풀이</a></td>
