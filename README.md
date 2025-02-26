@@ -14,6 +14,19 @@
   </thead>
   <tbody>
     <tr>
+      <td rowspan="2">2025.02.20</td>
+      <td><a href="http://www.acmicpc.net/problem/1654">랜선 자르기</a></td>
+      <td>이분 탐색</td>
+      <td>Silver 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Baekjoon/Silver_2/001654%20%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0.md">나의 풀이</a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.acmicpc.net/problem/11719">그대로 출력하기 2</a></td>
+      <td>문자열</td>
+      <td>Bronze 3</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Baekjoon/Bronze_3/011719%20%EA%B7%B8%EB%8C%80%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0%202.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td rowspan="2">2025.02.19</td>
       <td><a href="http://www.acmicpc.net/problem/11657">타임머신</a></td>
       <td>벨만 포드</td>
