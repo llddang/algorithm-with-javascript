@@ -14,6 +14,13 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.02.26</td>
+      <td><a href="http://www.acmicpc.net/problem/11663">선분 위의 점</a></td>
+      <td>이분 탐색</td>
+      <td>Silver 3</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Baekjoon/Silver_3/011663%20%EC%84%A0%EB%B6%84%20%EC%9C%84%EC%9D%98%20%EC%A0%90.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td rowspan="2">2025.02.20</td>
       <td><a href="http://www.acmicpc.net/problem/1654">랜선 자르기</a></td>
       <td>이분 탐색</td>
