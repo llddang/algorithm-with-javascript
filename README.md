@@ -14,6 +14,13 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.03.04</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%201/065.%ED%83%9D%EB%B0%B0%20%EC%83%81%EC%9E%90%20%EA%BA%BC%EB%82%B4%EA%B8%B0.md">택배 상자 꺼내기</a></td>
+      <td>구현</td>
+      <td>Level 1</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%201/065.%ED%83%9D%EB%B0%B0%20%EC%83%81%EC%9E%90%20%EA%BA%BC%EB%82%B4%EA%B8%B0.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td>2025.02.26</td>
       <td><a href="http://www.acmicpc.net/problem/11663">선분 위의 점</a></td>
       <td>이분 탐색</td>
