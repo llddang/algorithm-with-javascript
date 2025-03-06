@@ -14,6 +14,13 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.03.06</td>
+      <td><a href="http://www.acmicpc.net/problem/2211">네트워크 복구</a></td>
+      <td>데익스트라</td>
+      <td>Gold 2</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Baekjoon/Gold_2/002211_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B3%B5%EA%B5%AC.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td>2025.03.04</td>
       <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Programmers/Level%201/065.%ED%83%9D%EB%B0%B0%20%EC%83%81%EC%9E%90%20%EA%BA%BC%EB%82%B4%EA%B8%B0.md">택배 상자 꺼내기</a></td>
       <td>구현</td>
