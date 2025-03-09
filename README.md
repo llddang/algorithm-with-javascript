@@ -14,6 +14,13 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.03.09</td>
+      <td><a href="http://www.acmicpc.net/problem/1253">좋다</a></td>
+      <td>투 포인터</td>
+      <td>Gold 4</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Baekjoon/Gold_4/001253%20%EC%A2%8B%EB%8B%A4.md">나의 풀이</a></td>
+    </tr>
+    <tr>
       <td>2025.03.06</td>
       <td><a href="http://www.acmicpc.net/problem/2211">네트워크 복구</a></td>
       <td>데익스트라</td>
