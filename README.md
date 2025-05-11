@@ -1,7 +1,36 @@
 # Algorithm
 알고리즘 문제를 풀어봅시다!
 
-## 2024.12.24 ~ 진행 중
+## 2025.05.11 ~ 진행 중
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>제목</th>
+      <th>문제 유형</th>
+      <th>난이도</th>
+      <th>나의 풀이</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">2025.05.11</td>
+      <td><a href="https://www.acmicpc.net/problem/2206">벽 부수고 이동하기</a></td>
+      <td>BFS</td>
+      <td>Gold 3</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Baekjoon/Gold_3/002206%20%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.js">나의 코드</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.acmicpc.net/problem/30804">과일 탕후루</a></td>
+      <td>투 포인터</td>
+      <td>Silver 2</td>
+      <td><a href="https://llddang-blog.tistory.com/93">나의 풀이</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+## 2024.12.24 ~ 2025.03.09 (1차)
 <table>
   <thead>
     <tr>
