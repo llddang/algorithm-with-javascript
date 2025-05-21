@@ -14,6 +14,13 @@
   </thead>
   <tbody>
     <tr>
+      <td>2025.05.21</td>
+      <td><a href="https://www.acmicpc.net/problem/15681">트리와 쿼리</a></td>
+      <td>DFS</td>
+      <td>Gold 5</td>
+      <td><a href="https://github.com/llddang/algorithm-with-javascript/blob/main/Baekjoon/Gold_5/015681%20%ED%8A%B8%EB%A6%AC%EC%99%80%20%EC%BF%BC%EB%A6%AC.js">나의 코드</a></td>
+    </tr>
+    <tr>
       <td>2025.05.20</td>
       <td><a href="https://www.acmicpc.net/problem/30805">사전 순 최대 공통 부분 수열</a></td>
       <td>그리디 알고리즘</td>
